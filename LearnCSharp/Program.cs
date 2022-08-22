@@ -1,7 +1,6 @@
 ﻿// reference type v.s. value type
 
 //value type
-
 var a = 10;
 var b = a;
 b++;
