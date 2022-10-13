@@ -29,3 +29,7 @@ Console.WriteLine("string1:{0}, string2:{1}", string1, string2);
 Console.WriteLine("string is primitive? {0}", typeof(string).IsPrimitive);
 Console.WriteLine("IEnumerable is primitive? {0}", typeof(IEnumerable).IsPrimitive);
 Console.WriteLine("int is primitive? {0}", typeof(int).IsPrimitive);
+
+
+
+Console.WriteLine("contains: {0}","123".Contains(string.Empty));
