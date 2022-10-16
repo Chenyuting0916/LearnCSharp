@@ -1,28 +1,27 @@
 ﻿using System.Collections;
 
 
-
 // reference type v.s. value type
 
-    //value type
-    var a = 10;
-    var b = a;
-    b++;
-    Console.WriteLine("a:{0}, b:{1}", a, b);
+//value type
+var a = 10;
+var b = a;
+b++;
+Console.WriteLine("a:{0}, b:{1}", a, b);
 
 
-    //reference type
-    var array1 = new int[3] { 1, 2, 3 };
-    var array2 = array1;
-    array2[0] = 0;
-    Console.WriteLine("array1[0]:{0}, array2[0]:{1}", array1[0], array2[0]);
+//reference type
+var array1 = new int[3] { 1, 2, 3 };
+var array2 = array1;
+array2[0] = 0;
+Console.WriteLine("array1[0]:{0}, array2[0]:{1}", array1[0], array2[0]);
 
 
 //try something
 var string1 = "string";
-    var string2 = string1;
-    string2 = "string222222222";
-    string2 += "333";
+var string2 = string1;
+string2 = "string222222222";
+string2 += "333";
 Console.WriteLine("string1:{0}, string2:{1}", string1, string2);
 
 
@@ -31,5 +30,50 @@ Console.WriteLine("IEnumerable is primitive? {0}", typeof(IEnumerable).IsPrimiti
 Console.WriteLine("int is primitive? {0}", typeof(int).IsPrimitive);
 
 
+Console.WriteLine("contains: {0}", "123".Contains(string.Empty));
 
-Console.WriteLine("contains: {0}","123".Contains(string.Empty));
+
+var accounts = new List<Account>()
+{
+    new()
+    {
+        Id = 1,
+        Name = "tim"
+    },
+    new()
+    {
+        Id = 1,
+        Name = "tim"
+    }
+};
+
+
+var account1 = accounts.Single();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var account2 = accounts.First();
+
+public class Account
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+}
