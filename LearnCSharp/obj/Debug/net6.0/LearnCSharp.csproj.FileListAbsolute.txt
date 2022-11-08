@@ -13,3 +13,5 @@ D:\0000Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.dll
 D:\0000Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\ref\LearnCSharp.dll
 D:\0000Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.pdb
 D:\0000Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.genruntimeconfig.cache
+D:\0000Personal\LearnCSharp\LearnCSharp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\0000Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.csproj.CopyComplete

@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using Newtonsoft.Json;
 
 
 // reference type v.s. value type
@@ -33,6 +34,16 @@ Console.WriteLine("int is primitive? {0}", typeof(int).IsPrimitive);
 Console.WriteLine("contains: {0}", "123".Contains(string.Empty));
 
 
+var aa = new List<string>{"aaa07","aaa08","aaa09","aaa01","aaa02"};
+var bb = new List<string>{"aaa02","aaa09","aaa08","aaa01","aaa07"};
+
+
+var bb2 = bb.OrderBy(x => aa.IndexOf(x)).ToList();
+
+Console.WriteLine(JsonConvert.SerializeObject(bb2));
+
+
+
 var accounts = new List<Account>()
 {
     new()
@@ -48,28 +59,7 @@ var accounts = new List<Account>()
 };
 
 
-var account1 = accounts.Single();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// var account1 = accounts.Single();
 var account2 = accounts.First();
 
 public class Account
