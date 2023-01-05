@@ -25,7 +25,7 @@ public class Subject : ISubject
 
         foreach (var observer in _observers)
         {
-            observer.Update(this);
+            observer.Update();
         }
     }
 

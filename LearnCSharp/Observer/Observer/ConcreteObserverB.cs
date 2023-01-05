@@ -4,11 +4,23 @@ namespace LearnCSharp.Observer.Observer;
 
 public class ConcreteObserverB : IObserver
 {
-    public void Update(ISubject subject)
+    private ISubject Subject { get; }
+    public ConcreteObserverB(ISubject subject)
     {
-        if (((Subject.Subject)subject).State is 0 or >= 2)
+        Subject = subject;
+        Subject.RegisterObserver(this);
+    }
+    
+    public void Update()
+    {
+        if (((Subject.Subject)Subject).State is 0 or >= 2)
         {
             Console.WriteLine("ConcreteObserverB: Reacted to the event.");
         }
+    }
+
+    public void RemoveSubject()
+    {
+        Subject.RegisterObserver(this);
     }
 }

@@ -4,5 +4,6 @@ namespace LearnCSharp.Observer.Observer;
 
 public interface IObserver
 {
-    void Update(ISubject subject);
+    void Update();
+    void RemoveSubject();
 }

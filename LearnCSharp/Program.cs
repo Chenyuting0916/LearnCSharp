@@ -4,15 +4,12 @@ using LearnCSharp.Observer.Subject;
 
 
 var subject = new Subject();
-var observerA = new ConcreteObserverA();
-subject.RegisterObserver(observerA);
-
-var observerB = new ConcreteObserverB();
-subject.RegisterObserver(observerB);
+var observerA = new ConcreteObserverA(subject);
+var observerB = new ConcreteObserverB(subject);
 
 subject.SomeBusinessLogic();
 subject.SomeBusinessLogic();
 
-subject.RemoveObserver(observerB);
+observerB.RemoveSubject();
 
 subject.SomeBusinessLogic();
