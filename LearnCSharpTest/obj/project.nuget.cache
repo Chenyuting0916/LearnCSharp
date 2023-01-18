@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uIdqakys4SoPZwrQG4dEuvxEdA6XBo0JEylgEYWrMdYoIiH2xs3gtejo55Ih1jHkW4IKxF4L8ogWj4613aPrQQ==",
+  "dgSpecHash": "JbQACSyNnibKL16Oj8zrKT9Ps8/1KMYokPiFCXXFVPUwBw2FVse/Utijls0aPQshiihqKYyG/VfrVUHraYabcQ==",
   "success": true,
   "projectFilePath": "D:\\0000Personal\\LearnCSharp\\LearnCSharpTest\\LearnCSharpTest.csproj",
   "expectedPackageFiles": [
@@ -20,5 +20,12 @@
     "C:\\Users\\tim.chen73\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
     "C:\\Users\\tim.chen73\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

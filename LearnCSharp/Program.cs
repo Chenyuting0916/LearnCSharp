@@ -1,15 +1,5 @@
-﻿using LearnCSharp.Observer.Observer;
-using LearnCSharp.Observer.Subject;
+﻿var round1 = Math.Round(2.5);
+var round2 = Math.Round(3.5);
 
-
-
-var subject = new Subject();
-var observerA = new ConcreteObserverA(subject);
-var observerB = new ConcreteObserverB(subject);
-
-subject.SomeBusinessLogic();
-subject.SomeBusinessLogic();
-
-observerB.RemoveSubject();
-
-subject.SomeBusinessLogic();
+Console.WriteLine(round1);
+Console.WriteLine(round2);
