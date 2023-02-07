@@ -1,0 +1,17 @@
+D:\0000Personal\LearnCSharp\DesignPattern\bin\Debug\net6.0\DesignPattern.exe
+D:\0000Personal\LearnCSharp\DesignPattern\bin\Debug\net6.0\DesignPattern.deps.json
+D:\0000Personal\LearnCSharp\DesignPattern\bin\Debug\net6.0\DesignPattern.runtimeconfig.json
+D:\0000Personal\LearnCSharp\DesignPattern\bin\Debug\net6.0\DesignPattern.dll
+D:\0000Personal\LearnCSharp\DesignPattern\bin\Debug\net6.0\DesignPattern.pdb
+D:\0000Personal\LearnCSharp\DesignPattern\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\0000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.AssemblyReference.cache
+D:\0000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\0000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfoInputs.cache
+D:\0000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfo.cs
+D:\0000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CoreCompileInputs.cache
+D:\0000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CopyComplete
+D:\0000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.dll
+D:\0000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\refint\DesignPattern.dll
+D:\0000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.pdb
+D:\0000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.genruntimeconfig.cache
+D:\0000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\ref\DesignPattern.dll

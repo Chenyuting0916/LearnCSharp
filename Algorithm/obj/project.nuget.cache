@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WtudsGeUBaPRr8GN3Jo3NwUdNN2+XWzY22UxvYKGWFrFpfgffWCr0yJ+r4ewkOhC9R1d+KMkeNZQpShXn3oCug==",
+  "success": true,
+  "projectFilePath": "D:\\0000Personal\\LearnCSharp\\Algorithm\\Algorithm.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

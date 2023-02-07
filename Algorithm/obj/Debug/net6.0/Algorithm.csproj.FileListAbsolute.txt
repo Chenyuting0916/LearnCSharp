@@ -1,0 +1,15 @@
+D:\0000Personal\LearnCSharp\Algorithm\bin\Debug\net6.0\Algorithm.exe
+D:\0000Personal\LearnCSharp\Algorithm\bin\Debug\net6.0\Algorithm.deps.json
+D:\0000Personal\LearnCSharp\Algorithm\bin\Debug\net6.0\Algorithm.runtimeconfig.json
+D:\0000Personal\LearnCSharp\Algorithm\bin\Debug\net6.0\Algorithm.dll
+D:\0000Personal\LearnCSharp\Algorithm\bin\Debug\net6.0\Algorithm.pdb
+D:\0000Personal\LearnCSharp\Algorithm\obj\Debug\net6.0\Algorithm.csproj.AssemblyReference.cache
+D:\0000Personal\LearnCSharp\Algorithm\obj\Debug\net6.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\0000Personal\LearnCSharp\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfoInputs.cache
+D:\0000Personal\LearnCSharp\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfo.cs
+D:\0000Personal\LearnCSharp\Algorithm\obj\Debug\net6.0\Algorithm.csproj.CoreCompileInputs.cache
+D:\0000Personal\LearnCSharp\Algorithm\obj\Debug\net6.0\Algorithm.dll
+D:\0000Personal\LearnCSharp\Algorithm\obj\Debug\net6.0\refint\Algorithm.dll
+D:\0000Personal\LearnCSharp\Algorithm\obj\Debug\net6.0\Algorithm.pdb
+D:\0000Personal\LearnCSharp\Algorithm\obj\Debug\net6.0\Algorithm.genruntimeconfig.cache
+D:\0000Personal\LearnCSharp\Algorithm\obj\Debug\net6.0\ref\Algorithm.dll
