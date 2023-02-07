@@ -1,9 +1,9 @@
 ﻿using System.Collections;
 using Newtonsoft.Json;
 
-namespace LearnCSharp;
+namespace LearnCSharp.BasicCsharp;
 
-public class Mess
+public class ValueTypeAndReferenceType
 {
     public void MessMethod()
     {
