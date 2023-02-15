@@ -1,0 +1,15 @@
+D:\0000Personal\LearnCSharp\Data Structure\bin\Debug\net6.0\Data Structure.exe
+D:\0000Personal\LearnCSharp\Data Structure\bin\Debug\net6.0\Data Structure.deps.json
+D:\0000Personal\LearnCSharp\Data Structure\bin\Debug\net6.0\Data Structure.runtimeconfig.json
+D:\0000Personal\LearnCSharp\Data Structure\bin\Debug\net6.0\Data Structure.dll
+D:\0000Personal\LearnCSharp\Data Structure\bin\Debug\net6.0\Data Structure.pdb
+D:\0000Personal\LearnCSharp\Data Structure\obj\Debug\net6.0\Data Structure.csproj.AssemblyReference.cache
+D:\0000Personal\LearnCSharp\Data Structure\obj\Debug\net6.0\Data Structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\0000Personal\LearnCSharp\Data Structure\obj\Debug\net6.0\Data Structure.AssemblyInfoInputs.cache
+D:\0000Personal\LearnCSharp\Data Structure\obj\Debug\net6.0\Data Structure.AssemblyInfo.cs
+D:\0000Personal\LearnCSharp\Data Structure\obj\Debug\net6.0\Data Structure.csproj.CoreCompileInputs.cache
+D:\0000Personal\LearnCSharp\Data Structure\obj\Debug\net6.0\Data Structure.dll
+D:\0000Personal\LearnCSharp\Data Structure\obj\Debug\net6.0\refint\Data Structure.dll
+D:\0000Personal\LearnCSharp\Data Structure\obj\Debug\net6.0\Data Structure.pdb
+D:\0000Personal\LearnCSharp\Data Structure\obj\Debug\net6.0\Data Structure.genruntimeconfig.cache
+D:\0000Personal\LearnCSharp\Data Structure\obj\Debug\net6.0\ref\Data Structure.dll
