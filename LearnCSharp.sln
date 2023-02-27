@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternTest", "Design
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCSharp", "LearnCSharp\LearnCSharp.csproj", "{7194BFAD-B3E1-47D7-8500-458AE2D14036}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Algorithm\Algorithm.csproj", "{233E4EB0-B26C-4BE7-90A6-130796B03132}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{233E4EB0-B26C-4BE7-90A6-130796B03132}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Structure", "Data Structure\Data Structure.csproj", "{9C7E6FEA-5FCE-4ABF-846A-750DB0F2C5A6}"
 EndProject

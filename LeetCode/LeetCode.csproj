@@ -5,10 +5,7 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>LeetCode</RootNamespace>
     </PropertyGroup>
-
-    <ItemGroup>
-      <Folder Include="1583. Count Unhappy Friends" />
-    </ItemGroup>
 
 </Project>

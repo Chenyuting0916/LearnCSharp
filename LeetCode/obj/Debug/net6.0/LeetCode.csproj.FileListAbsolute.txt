@@ -1,0 +1,15 @@
+D:\0000Personal\LearnCSharp\LeetCode\bin\Debug\net6.0\LeetCode.exe
+D:\0000Personal\LearnCSharp\LeetCode\bin\Debug\net6.0\LeetCode.deps.json
+D:\0000Personal\LearnCSharp\LeetCode\bin\Debug\net6.0\LeetCode.runtimeconfig.json
+D:\0000Personal\LearnCSharp\LeetCode\bin\Debug\net6.0\LeetCode.dll
+D:\0000Personal\LearnCSharp\LeetCode\bin\Debug\net6.0\LeetCode.pdb
+D:\0000Personal\LearnCSharp\LeetCode\obj\Debug\net6.0\LeetCode.csproj.AssemblyReference.cache
+D:\0000Personal\LearnCSharp\LeetCode\obj\Debug\net6.0\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\0000Personal\LearnCSharp\LeetCode\obj\Debug\net6.0\LeetCode.AssemblyInfoInputs.cache
+D:\0000Personal\LearnCSharp\LeetCode\obj\Debug\net6.0\LeetCode.AssemblyInfo.cs
+D:\0000Personal\LearnCSharp\LeetCode\obj\Debug\net6.0\LeetCode.csproj.CoreCompileInputs.cache
+D:\0000Personal\LearnCSharp\LeetCode\obj\Debug\net6.0\LeetCode.dll
+D:\0000Personal\LearnCSharp\LeetCode\obj\Debug\net6.0\refint\LeetCode.dll
+D:\0000Personal\LearnCSharp\LeetCode\obj\Debug\net6.0\LeetCode.pdb
+D:\0000Personal\LearnCSharp\LeetCode\obj\Debug\net6.0\LeetCode.genruntimeconfig.cache
+D:\0000Personal\LearnCSharp\LeetCode\obj\Debug\net6.0\ref\LeetCode.dll

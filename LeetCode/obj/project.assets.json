@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0000Personal\\LearnCSharp\\Algorithm\\Algorithm.csproj",
-      "projectName": "Algorithm",
-      "projectPath": "D:\\0000Personal\\LearnCSharp\\Algorithm\\Algorithm.csproj",
+      "projectUniqueName": "D:\\0000Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj",
+      "projectName": "LeetCode",
+      "projectPath": "D:\\0000Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj",
       "packagesPath": "C:\\Users\\tim.chen73\\.nuget\\packages\\",
-      "outputPath": "D:\\0000Personal\\LearnCSharp\\Algorithm\\obj\\",
+      "outputPath": "D:\\0000Personal\\LearnCSharp\\LeetCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

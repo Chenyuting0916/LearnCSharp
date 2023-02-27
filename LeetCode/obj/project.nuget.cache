@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WtudsGeUBaPRr8GN3Jo3NwUdNN2+XWzY22UxvYKGWFrFpfgffWCr0yJ+r4ewkOhC9R1d+KMkeNZQpShXn3oCug==",
+  "dgSpecHash": "vHl9L0JBzDFMFHdHMWJOyQGtH7ZenzNHjoYqO1MnA8Iu6nnFHxV18aQVh3EfzB9gPjHIfuJaT7Qxx89xgLaRNw==",
   "success": true,
-  "projectFilePath": "D:\\0000Personal\\LearnCSharp\\Algorithm\\Algorithm.csproj",
+  "projectFilePath": "D:\\0000Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
