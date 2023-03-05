@@ -1,6 +1,4 @@
-﻿using LearnCSharp.Observer.Subject;
-
-namespace LearnCSharp.Observer.Observer;
+﻿namespace LearnCSharp.Observer.Observer;
 
 public interface IObserver
 {
