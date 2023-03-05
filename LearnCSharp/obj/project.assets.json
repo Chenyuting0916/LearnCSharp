@@ -5,10 +5,14 @@
       "Newtonsoft.Json/13.0.2-beta2": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Newtonsoft.Json.dll": {}
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Newtonsoft.Json.dll": {}
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       }
     }
@@ -51,23 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tim.chen73\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\cheny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0000Personal\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj",
+      "projectUniqueName": "E:\\000Personal\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj",
       "projectName": "LearnCSharp",
-      "projectPath": "D:\\0000Personal\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj",
-      "packagesPath": "C:\\Users\\tim.chen73\\.nuget\\packages\\",
-      "outputPath": "D:\\0000Personal\\LearnCSharp\\LearnCSharp\\obj\\",
+      "projectPath": "E:\\000Personal\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj",
+      "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
+      "outputPath": "E:\\000Personal\\LearnCSharp\\LearnCSharp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\tim.chen73\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -75,7 +75,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.coreop.net/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -115,7 +114,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

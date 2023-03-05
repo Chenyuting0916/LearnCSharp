@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7g9oshdGsdsKeBQu+yGbSxSd+fUMjEyaRwwFHxFCDdfVPJWWcNqg+H+KLsSRFYjFv5mBYZWvga1kvYWtQ3JWUg==",
+  "dgSpecHash": "G58XhE5yLmFic1dpRO6XkU7iNjdMR20Npqyx1mpo6e/OT2pEY8hgvjM6lOXhQIn18DB7WCndBxVUEgT4LYNRaQ==",
   "success": true,
-  "projectFilePath": "D:\\0000Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj",
+  "projectFilePath": "E:\\000Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

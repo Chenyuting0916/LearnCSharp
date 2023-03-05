@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\0000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj": {}
+    "E:\\000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj": {}
   },
   "projects": {
-    "D:\\0000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj": {
+    "E:\\000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\0000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
+        "projectUniqueName": "E:\\000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
         "projectName": "DesignPatternTest",
-        "projectPath": "D:\\0000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
-        "packagesPath": "C:\\Users\\tim.chen73\\.nuget\\packages\\",
-        "outputPath": "D:\\0000Personal\\LearnCSharp\\DesignPatternTest\\obj\\",
+        "projectPath": "E:\\000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
+        "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
+        "outputPath": "E:\\000Personal\\LearnCSharp\\DesignPatternTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tim.chen73\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.coreop.net/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\0000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj": {
-                "projectPath": "D:\\0000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj"
+              "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj": {
+                "projectPath": "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj"
               }
             }
           }
@@ -85,24 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\0000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj": {
+    "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\0000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj",
+        "projectUniqueName": "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj",
         "projectName": "DesignPattern",
-        "projectPath": "D:\\0000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj",
-        "packagesPath": "C:\\Users\\tim.chen73\\.nuget\\packages\\",
-        "outputPath": "D:\\0000Personal\\LearnCSharp\\DesignPattern\\obj\\",
+        "projectPath": "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj",
+        "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
+        "outputPath": "E:\\000Personal\\LearnCSharp\\DesignPattern\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tim.chen73\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -110,7 +103,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.coreop.net/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -150,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

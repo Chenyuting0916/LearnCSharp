@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tim.chen73\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\cheny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0000Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj",
+      "projectUniqueName": "E:\\000Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj",
       "projectName": "Data Structure",
-      "projectPath": "D:\\0000Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj",
-      "packagesPath": "C:\\Users\\tim.chen73\\.nuget\\packages\\",
-      "outputPath": "D:\\0000Personal\\LearnCSharp\\Data Structure\\obj\\",
+      "projectPath": "E:\\000Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj",
+      "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
+      "outputPath": "E:\\000Personal\\LearnCSharp\\Data Structure\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\tim.chen73\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.coreop.net/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,16 +61,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  }
 }

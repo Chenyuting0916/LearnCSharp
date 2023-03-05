@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vHl9L0JBzDFMFHdHMWJOyQGtH7ZenzNHjoYqO1MnA8Iu6nnFHxV18aQVh3EfzB9gPjHIfuJaT7Qxx89xgLaRNw==",
+  "dgSpecHash": "MiFjf2665F9VoDbqctPUR4p2GHBWVudKaYikkTde6fcjH+RPgJ/EWePFD48+hULelPWPhenE3mxmyTcHUMp6Mw==",
   "success": true,
-  "projectFilePath": "D:\\0000Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj",
+  "projectFilePath": "E:\\000Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }
