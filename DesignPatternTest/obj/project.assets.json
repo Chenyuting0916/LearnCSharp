@@ -1430,19 +1430,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cheny\\.nuget\\packages\\": {}
+    "C:\\Users\\timchen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
+      "projectUniqueName": "D:\\0000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
       "projectName": "DesignPatternTest",
-      "projectPath": "E:\\000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
-      "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
-      "outputPath": "E:\\000Personal\\LearnCSharp\\DesignPatternTest\\obj\\",
+      "projectPath": "D:\\0000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
+      "packagesPath": "C:\\Users\\timchen\\.nuget\\packages\\",
+      "outputPath": "D:\\0000Personal\\LearnCSharp\\DesignPatternTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\timchen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1456,8 +1456,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj": {
-              "projectPath": "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj"
+            "D:\\0000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj": {
+              "projectPath": "D:\\0000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj"
             }
           }
         }
@@ -1509,7 +1509,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
