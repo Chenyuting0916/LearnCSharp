@@ -369,3 +369,8 @@ obj/
 *.user
 
 _ReSharper*
+
+Data Structure/bin
+Data Structure/obj
+Design Pattern/bin
+Design Pattern/obj
