@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\0000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj": {}
+    "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj": {}
   },
   "projects": {
-    "D:\\0000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj": {
+    "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\0000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj",
+        "projectUniqueName": "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj",
         "projectName": "DesignPattern",
-        "projectPath": "D:\\0000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj",
-        "packagesPath": "C:\\Users\\timchen\\.nuget\\packages\\",
-        "outputPath": "D:\\0000Personal\\LearnCSharp\\DesignPattern\\obj\\",
+        "projectPath": "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj",
+        "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
+        "outputPath": "E:\\000Personal\\LearnCSharp\\DesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\timchen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
