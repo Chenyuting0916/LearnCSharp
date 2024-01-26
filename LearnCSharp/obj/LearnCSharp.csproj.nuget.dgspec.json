@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\000Personal\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj": {}
+    "D:\\0000Personal\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj": {}
   },
   "projects": {
-    "E:\\000Personal\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj": {
+    "D:\\0000Personal\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\000Personal\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj",
+        "projectUniqueName": "D:\\0000Personal\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj",
         "projectName": "LearnCSharp",
-        "projectPath": "E:\\000Personal\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj",
-        "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
-        "outputPath": "E:\\000Personal\\LearnCSharp\\LearnCSharp\\obj\\",
+        "projectPath": "D:\\0000Personal\\LearnCSharp\\LearnCSharp\\LearnCSharp.csproj",
+        "packagesPath": "C:\\Users\\timchen\\.nuget\\packages\\",
+        "outputPath": "D:\\0000Personal\\LearnCSharp\\LearnCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\timchen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
