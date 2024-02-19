@@ -18,5 +18,23 @@ namespace LeetCode
 
             else return SearchBST(root.left, val);
         }
+
+
+        public TreeNode SearchBST2(TreeNode root, int val)
+        {
+            while (root != null)
+            {
+                if (root.val == val) return root;
+                else if (root.val < val)
+                {
+                    root = root.right;
+                }
+                else if (root.val > val)
+                {
+                    root = root.left;
+                }
+            }
+            return null;
+        }
     }
 }
