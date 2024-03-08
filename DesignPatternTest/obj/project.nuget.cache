@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XdIvXGViTXlnPxS5XAMcfU19bNbuS7qCUVZM7iZ9irA9oe9UH4uSnNyb/HjtlDvu6y39uHKjt3AkUCqmnye2kg==",
+  "dgSpecHash": "YeoqgA8X6JyRQuVituQd4ycQVpBUrEJJEjCstyKa7l9tHOZvazN07GFXMeRazIAyeHfzUb70hwov4PrLIs4+Ww==",
   "success": true,
-  "projectFilePath": "E:\\000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
+  "projectFilePath": "E:\\000 Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheny\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\cheny\\.nuget\\packages\\fluentassertions\\6.8.0\\fluentassertions.6.8.0.nupkg.sha512",

@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj",
+      "projectUniqueName": "E:\\000 Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj",
       "projectName": "DesignPattern",
-      "projectPath": "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj",
+      "projectPath": "E:\\000 Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj",
       "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
-      "outputPath": "E:\\000Personal\\LearnCSharp\\DesignPattern\\obj\\",
+      "outputPath": "E:\\000 Personal\\LearnCSharp\\DesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",

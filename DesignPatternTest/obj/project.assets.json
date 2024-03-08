@@ -1435,11 +1435,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
+      "projectUniqueName": "E:\\000 Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
       "projectName": "DesignPatternTest",
-      "projectPath": "E:\\000Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
+      "projectPath": "E:\\000 Personal\\LearnCSharp\\DesignPatternTest\\DesignPatternTest.csproj",
       "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
-      "outputPath": "E:\\000Personal\\LearnCSharp\\DesignPatternTest\\obj\\",
+      "outputPath": "E:\\000 Personal\\LearnCSharp\\DesignPatternTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1456,8 +1456,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj": {
-              "projectPath": "E:\\000Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj"
+            "E:\\000 Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj": {
+              "projectPath": "E:\\000 Personal\\LearnCSharp\\DesignPattern\\DesignPattern.csproj"
             }
           }
         }

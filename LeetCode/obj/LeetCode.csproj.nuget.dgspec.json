@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\000Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj": {}
+    "E:\\000 Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj": {}
   },
   "projects": {
-    "E:\\000Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj": {
+    "E:\\000 Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\000Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj",
+        "projectUniqueName": "E:\\000 Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj",
         "projectName": "LeetCode",
-        "projectPath": "E:\\000Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj",
+        "projectPath": "E:\\000 Personal\\LearnCSharp\\LeetCode\\LeetCode.csproj",
         "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
-        "outputPath": "E:\\000Personal\\LearnCSharp\\LeetCode\\obj\\",
+        "outputPath": "E:\\000 Personal\\LearnCSharp\\LeetCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",

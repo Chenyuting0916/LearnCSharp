@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\000Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj": {}
+    "E:\\000 Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj": {}
   },
   "projects": {
-    "E:\\000Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj": {
+    "E:\\000 Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\000Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj",
+        "projectUniqueName": "E:\\000 Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj",
         "projectName": "Data Structure",
-        "projectPath": "E:\\000Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj",
+        "projectPath": "E:\\000 Personal\\LearnCSharp\\Data Structure\\Data Structure.csproj",
         "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
-        "outputPath": "E:\\000Personal\\LearnCSharp\\Data Structure\\obj\\",
+        "outputPath": "E:\\000 Personal\\LearnCSharp\\Data Structure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
