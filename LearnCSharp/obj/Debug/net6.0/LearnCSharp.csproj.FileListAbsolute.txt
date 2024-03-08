@@ -32,3 +32,20 @@ E:\000Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\refint\LearnCSharp.dll
 E:\000Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.pdb
 E:\000Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.genruntimeconfig.cache
 E:\000Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\ref\LearnCSharp.dll
+E:\000 Personal\LearnCSharp\LearnCSharp\bin\Debug\net6.0\LearnCSharp.exe
+E:\000 Personal\LearnCSharp\LearnCSharp\bin\Debug\net6.0\LearnCSharp.deps.json
+E:\000 Personal\LearnCSharp\LearnCSharp\bin\Debug\net6.0\LearnCSharp.runtimeconfig.json
+E:\000 Personal\LearnCSharp\LearnCSharp\bin\Debug\net6.0\LearnCSharp.dll
+E:\000 Personal\LearnCSharp\LearnCSharp\bin\Debug\net6.0\LearnCSharp.pdb
+E:\000 Personal\LearnCSharp\LearnCSharp\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\000 Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.csproj.AssemblyReference.cache
+E:\000 Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\000 Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.AssemblyInfoInputs.cache
+E:\000 Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.AssemblyInfo.cs
+E:\000 Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.csproj.CoreCompileInputs.cache
+E:\000 Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.csproj.CopyComplete
+E:\000 Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.dll
+E:\000 Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\refint\LearnCSharp.dll
+E:\000 Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.pdb
+E:\000 Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\LearnCSharp.genruntimeconfig.cache
+E:\000 Personal\LearnCSharp\LearnCSharp\obj\Debug\net6.0\ref\LearnCSharp.dll

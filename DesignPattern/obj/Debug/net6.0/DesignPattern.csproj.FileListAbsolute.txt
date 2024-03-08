@@ -32,3 +32,20 @@ E:\000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\refint\DesignPattern.d
 E:\000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.pdb
 E:\000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.genruntimeconfig.cache
 E:\000Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\ref\DesignPattern.dll
+E:\000 Personal\LearnCSharp\DesignPattern\bin\Debug\net6.0\DesignPattern.exe
+E:\000 Personal\LearnCSharp\DesignPattern\bin\Debug\net6.0\DesignPattern.deps.json
+E:\000 Personal\LearnCSharp\DesignPattern\bin\Debug\net6.0\DesignPattern.runtimeconfig.json
+E:\000 Personal\LearnCSharp\DesignPattern\bin\Debug\net6.0\DesignPattern.dll
+E:\000 Personal\LearnCSharp\DesignPattern\bin\Debug\net6.0\DesignPattern.pdb
+E:\000 Personal\LearnCSharp\DesignPattern\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\000 Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.AssemblyReference.cache
+E:\000 Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\000 Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfoInputs.cache
+E:\000 Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfo.cs
+E:\000 Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CoreCompileInputs.cache
+E:\000 Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CopyComplete
+E:\000 Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.dll
+E:\000 Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\refint\DesignPattern.dll
+E:\000 Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.pdb
+E:\000 Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\DesignPattern.genruntimeconfig.cache
+E:\000 Personal\LearnCSharp\DesignPattern\obj\Debug\net6.0\ref\DesignPattern.dll
